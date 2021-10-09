@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
+  ROM_URL: 'https://111-31-96-2.ksyungslb.com/bigota.d.miui.com/9.9.3/miui_MI8SE_9.9.3_a9d719f08b_9.0.zip?ksy_gslb_referer=http%3A%2F%2Fwww.miui.com%2Fdownload-346.html'
   ZIP_NAME: 'update.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  VERSION: '9'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
