@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://111-31-96-2.ksyungslb.com/bigota.d.miui.com/9.9.3/miui_MI8SE_9.9.3_a9d719f08b_9.0.zip?ksy_gslb_referer=http%3A%2F%2Fwww.miui.com%2Fdownload-346.html'
+  ROM_URL: 'https://bigota.d.miui.com/V12.1.2.0.RFJCNXM/miui_DAVINCI_V12.1.2.0.RFJCNXM_cbafd0e088_11.0.zip'
   ZIP_NAME: 'update.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '9'
+  VERSION: '11'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
