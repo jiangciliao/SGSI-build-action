@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://bigota.d.miui.com/V12.1.2.0.RFJCNXM/miui_DAVINCI_V12.1.2.0.RFJCNXM_cbafd0e088_11.0.zip'
+  ROM_URL: 'https://qwa8xkvo.v1d.szbdyd.com:55387/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16s_Pro/8.1.5.1/cn/20210830092915/efb37ed7/update.zip?f_ver=v1&max_age=7776000&r=AxMbIBpoWncVEEcMQVYUFUUKCjkTJ1s7HBQaJ19FCwcKFQp%2FLz4MNRZWBFdFaDYCBEhXflh8QHZCVlYPGQVWQlpXV2NZYkxqSkgATlNRBENcAgtnRicFPBINUE9MXhYEFwo%2BCjYbaRwJUA9VUwhB&xyip=120.219.234.48&xyct=16&xysc=1&xy_rid=R9A~H02p3UWE7q'
   ZIP_NAME: 'update.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '11'
+  VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
